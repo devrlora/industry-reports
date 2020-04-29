@@ -1,8 +1,8 @@
 import React from 'react';
-
+import '../styles/Rights.css';
 function Rights() {
   return (
-    <div>
+    <div className="container">
       <div className="images"></div>
       <div className="images"></div>
       <div className="images"></div>
