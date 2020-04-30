@@ -31,9 +31,9 @@ function Navigation() {
 			</nav>
 			<Switch>
 				<Route exact path="/" component={Home}></Route>
-				<Route exact path="/" component={Rights}></Route>
-				<Route exact path="/" component={Stakes}></Route>
-				<Route exact path="/" component={References}></Route>
+				<Route exact path="/Rights" component={Rights}></Route>
+				<Route exact path="/Stakes" component={Stakes}></Route>
+				<Route exact path="/References" component={References}></Route>
 			</Switch>
 		</Router>
 	);
