@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Stakeholders from './components/Stakeholders';
 import Rights from './components/Rights';
-import Stakeholders from './Stakeholders';
+
 
 function App() {
   return (
