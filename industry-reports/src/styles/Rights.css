@@ -18,6 +18,13 @@
     padding-top: 1em;
     padding-bottom: 1em;
 }
+.section{
+    border: 1px;
+    border-style: solid none solid none;
+    border-color: green;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
 .images{
     grid-column-start: 1;
     grid-column: span 1;

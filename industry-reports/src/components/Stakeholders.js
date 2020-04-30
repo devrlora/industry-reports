@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Stakeholders.css';
+import '../styles/Stakeholders.css';
 
 export class Stakeholders extends Component {
     render() {
