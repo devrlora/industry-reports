@@ -4,7 +4,6 @@ import './App.css';
 import Stakeholders from './components/Stakeholders';
 import Rights from './components/Rights';
 
-
 function App() {
   return (
     <div className="App">

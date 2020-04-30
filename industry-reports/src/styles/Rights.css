@@ -17,6 +17,16 @@
     color:green;
     padding-top: 1em;
     padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: larger;
+}
+.section{
+    border: 1px;
+    border-style: solid none solid none;
+    border-color: green;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 .images{
     grid-column-start: 1;
@@ -32,4 +42,5 @@
 .text{
     grid-column-start: 2;
     grid-column: span 1;
+    color:darkolivegreen;
 }
