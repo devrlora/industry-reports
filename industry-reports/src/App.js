@@ -8,6 +8,5 @@ function App() {
 			<Navigation />
 		</div>
 	);
-}
 
 export default App;
