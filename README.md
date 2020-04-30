@@ -3,9 +3,13 @@
 ## Teammates
 
 Rafael - Team Leader, managing pull request, Stakeholder component
+
 Denisse - Navbar and Routing
+
 Deji - Introduction and Conclusion components
+
 Walter - Wireframe, README, and Rights component
+
 
 ## What is the purpose of the website
 
