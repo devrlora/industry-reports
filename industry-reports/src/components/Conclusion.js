@@ -1,9 +1,9 @@
 import React from 'react';
 import '../styles/Conclusion.css';
 
-function Conculsion() {
+export default function Conclusion() {
     return (
-        <div className="container">
+    <div className="container">
             <div className="ConclusionImage1">
                 <img className="imageCon1" src="https://h2q8k3x8.stackpathcdn.com/wp-content/uploads/2017/05/artificial-intelligence-robot-ai.jpg" height="200px"/>
             </div>
@@ -116,7 +116,5 @@ function Conculsion() {
                 </div>
         </div>
 
-    );
-
+    )
 }
-export default Conclusion;
