@@ -23,7 +23,6 @@ export class Stakeholders extends Component {
 AI and human rights activity in business, with short examples of activities by civil society, governments, the UN, intergovernmental organizations, and academia.
                     </h2>
                 </div>
-
             </div>
         )
     }
