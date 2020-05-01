@@ -4,7 +4,6 @@ import Home from './Home';
 import Rights from './Rights';
 import Stakeholders from './Stakeholders';
 import Conclusion from './Conclusion';
-import References from './References';
 import '../styles/Navigation.css';
 
 function Navigation() {
@@ -13,7 +12,7 @@ function Navigation() {
 			<nav className="wrapper">
 				<ul className="navi">
 					<li>
-						<Link to="/"> Home Page </Link>
+						<Link to="/"> Home </Link>
 					</li>
 					<li>
 						<Link to="/rights"> Rights </Link>
@@ -24,9 +23,6 @@ function Navigation() {
 					<li>
 						<Link to="/conclusion"> Conclusion </Link>
 					</li>
-					<li>
-						<Link to="/references"> References </Link>
-					</li>
 				</ul>
 			</nav>
 			<Switch>
@@ -34,7 +30,6 @@ function Navigation() {
 				<Route exact path="/rights" component={Rights}></Route>
 				<Route exact path="/stakeholders" component={Stakeholders}></Route>
 				<Route exact path="/conclusion" component={Conclusion}></Route>
-				<Route exact path="/references" component={References}></Route>
 			</Switch>
 		</Router>
 	);
