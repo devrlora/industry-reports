@@ -1,10 +1,10 @@
 import React from 'react';
 import { Route, Switch, Link, BrowserRouter as Router } from 'react-router-dom';
-import Home from './';
-import Rights from './';
-import Stakes from './';
-import Conclusion from './';
-import References from './';
+import Home from './Home';
+import Rights from './Rights';
+import Stakesholders from './Stakeholders';
+import Conclusion from './Conclusion';
+import References from './References';
 import '../App.css';
 
 function Navigation() {
@@ -32,7 +32,8 @@ function Navigation() {
 			<Switch>
 				<Route exact path="/" component={Home}></Route>
 				<Route exact path="/Rights" component={Rights}></Route>
-				<Route exact path="/Stakes" component={Stakes}></Route>
+				<Route exact path="/Stakesholders" component={Stakesholders}></Route>
+				<Route exact path="/Conclusion" component={Conclusion}></Route>
 				<Route exact path="/References" component={References}></Route>
 			</Switch>
 		</Router>
