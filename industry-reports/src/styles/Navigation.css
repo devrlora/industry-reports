@@ -9,7 +9,15 @@
 	height: 30px;
 	background: url('../images/AI2.png') right no-repeat,
 		url('../images/AI-logo.png') no-repeat center,
-		url('../images/AI2.png') left no-repeat rgba(0, 0, 0, 0.92);
+		url('../images/AI2.png') left no-repeat,
+		linear-gradient(
+			black,
+			rgb(0, 178, 198) 20%,
+			black,
+			black,
+			rgb(0, 178, 198),
+			black
+		);
 	background-size: 120px;
 	height: 90px;
 }
@@ -24,9 +32,9 @@ a:visited {
 }
 
 a:hover {
-	color: blue;
+	color: rgb(0, 178, 198);
 }
 
 a:active {
-	color: red;
+	color: black;
 }
