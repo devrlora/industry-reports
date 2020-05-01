@@ -1,0 +1,32 @@
+.navi {
+	display: flex;
+	list-style: none;
+	text-decoration: none;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	border: 2px solid black;
+	height: 30px;
+	background: url('../images/AI2.png') right no-repeat,
+		url('../images/AI-logo.png') no-repeat center,
+		url('../images/AI2.png') left no-repeat rgba(0, 0, 0, 0.92);
+	background-size: 120px;
+	height: 90px;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: silver;
+}
+
+a:hover {
+	color: blue;
+}
+
+a:active {
+	color: red;
+}
