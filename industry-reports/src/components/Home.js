@@ -22,7 +22,7 @@ export default function Home() {
                 DESIGNERS WORKED TO PROTECT AND RESPECT
                 FUNDAMENTAL HUMAN RIGHTS, IT COULD OPEN
                 THE PATH FOR SOCIAL BENEFIT. TO DISREGARD
-                HUMAN RIGHTS WOULD BE TO CLOSE OFF THAT PATH.
+                HUMAN RIGHTS WOULD BE TO CLOSE OFF THAT PATH
             </h1>
 
              </h4>

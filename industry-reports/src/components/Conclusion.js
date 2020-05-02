@@ -16,7 +16,7 @@ export default function Conclusion() {
                 dignity, then the international human rights system is fit for purpose. If AI researchers,
                 developers, and designers work to protect and respect fundamental human rights,
                 they could open the path for broad social benefit. To disregard human rights would be
-                to close off that path.
+                to close off that path..
             </p>
 
             <h1>

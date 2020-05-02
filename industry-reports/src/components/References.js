@@ -11,7 +11,7 @@ export default function References() {
             <h1>CONCLUSION</h1>
 
             <p>
-                Today’s AI debates are searching for principles to govern emerging and future tech-
+                Today is AI debates are searching for principles to govern emerging and future tech-
                 nological systems for the common good. If the “good” involves upholding human
                 dignity, then the international human rights system is fit for purpose. If AI researchers,
                 developers, and designers work to protect and respect fundamental human rights,
